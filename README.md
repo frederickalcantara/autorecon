@@ -9,6 +9,6 @@ cd autorecon
 
 chmod +x run.sh
 
-run.sh <url>
+./run.sh url
 
 Let it rip!
